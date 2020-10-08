@@ -6,12 +6,12 @@ The project seeks to create an eCommerce platform that provides a farmer with gr
 #Authors
 
 - **[Bryson Nyamwange - Team Lead. Frontend Developer](https://github.com/brysonwaisi)**
-- **[Petit Emmanuel - Back-End Developer] (https://github.com/PetitKwoba)**
-- **[Charles Matoroki - FrontEnd Developer] (https://github.com/iddle254)**
-- **[Kevin Muriuki - FrontEnd Developer] (https://github.com/Kevinmuriuki)**
-- **[Sam Gachuiga - FrontEnd Developer] (https://github.com/254netsh)**
-- **[Wanjiku Maina - FrontEnd Developer] (https://github.com/MaryMaina98)**
-- **[Ridwan Raji - FrontEnd Developer] (https://github.com/Ridwan0029)**
+- **[Petit Emmanuel - Back-End Developer](https://github.com/PetitKwoba)**
+- **[Charles Matoroki - FrontEnd Developer](https://github.com/iddle254)**
+- **[Kevin Muriuki - FrontEnd Developer](https://github.com/Kevinmuriuki)**
+- **[Sam Gachuiga - FrontEnd Developer](https://github.com/254netsh)**
+- **[Wanjiku Maina - FrontEnd Developer](https://github.com/MaryMaina98)**
+- **[Ridwan Raji - FrontEnd Developer](https://github.com/Ridwan0029)**
 
 ## License
 
