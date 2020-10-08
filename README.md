@@ -5,7 +5,7 @@ The project seeks to create an eCommerce platform that provides a farmer with gr
 
 Powered by Angular, NodeJS and Bootstrap
 
-#Authors
+# Authors
 
 - **[Bryson Nyamwange - Team Lead. Frontend Developer](https://github.com/brysonwaisi)**
 - **[Petit Emmanuel - Back-End Developer](https://github.com/PetitKwoba)**
