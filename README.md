@@ -1,27 +1,26 @@
-# FarmingAssistant
+# Farming-Assistant
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.6.
+# Project Overview 
+The project seeks to create an eCommerce platform that provides a farmer with greater profitability of their products and accessibility of agricultural products to consumers.
 
-## Development server
+Powered by Angular, NodeJS and Bootstrap
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+# Authors
 
-## Code scaffolding
+- **[Bryson Nyamwange - Team Lead. Frontend Developer](https://github.com/brysonwaisi)**
+- **[Petit Emmanuel - Back-End Developer](https://github.com/PetitKwoba)**
+- **[Charles Matoroki - FrontEnd Developer](https://github.com/iddle254)**
+- **[Kevin Muriuki - FrontEnd Developer](https://github.com/Kevinmuriuki)**
+- **[Sam Gachuiga - Cloud Developer](https://github.com/254netsh)**
+- **[Wanjiku Maina - FrontEnd Developer](https://github.com/MaryMaina98)**
+- **[Ridwan Raji - FrontEnd Developer](https://github.com/Ridwan0029)**
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## License
 
-## Build
+This project is licensed under the MIT License
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+## Acknowledgments
+-   Andela Learning Community
+-   Facebook Developer Circles
+-   PluralSight
+-   W3Schools
